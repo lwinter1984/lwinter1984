@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lee W Winter
+- 👀 I’m interested in Movies, special effects and creating with any tool thats available
+- 🌱 I’m currently learning OOP in JavaScript
